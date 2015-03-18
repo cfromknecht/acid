@@ -2,6 +2,10 @@
 *.fasl
 *.lisp-temp
 
+<<<<<<< HEAD
 #ignore executables
+=======
+# Ignore Executables
+>>>>>>> 126ec7289d47f60abdbb43b8650fe4348e34b296
 *.x
 
