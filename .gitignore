@@ -2,4 +2,6 @@
 *.fasl
 *.lisp-temp
 
+# Ignore Executables
 *.x
+
